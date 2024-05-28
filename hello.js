@@ -4,7 +4,9 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("I am", 23, "and was born in the year", 2000)
+console.log("What is 2+2?");
+
+console.log(2+2);
 
 /*  
 Next, PLAY! 
